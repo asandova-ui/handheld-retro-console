@@ -1,0 +1,10 @@
+10/02/2025
+- (Añadido): Grupos de trabajo creados.
+- (Añadido): Diagrama de Gantt y especificación del proyecto.
+
+12/02/2025
+- (Añadido): Creación del proyecto en Proteus.
+- (Modificado): Calendario del diagrama de Gantt con los festivos del curso 2024-2025.
+
+17/02/2025
+- (Añadido): Control de versiones creado.
