@@ -2,7 +2,7 @@
 
 A battery-powered handheld built from a blank page: schematic, a custom two-layer PCB, bare-metal C firmware and a resin-printed case, running a Pac-Man written for it. ARM7TDMI at 14.7 MHz, 800×480 TFT, two D-pads, stereo audio, haptics.
 
-Electronic product design course, Master's in Telecommunications Engineering, University of Valladolid, 2025. Three of us: Alonso Sandoval, Mario Medrano and Luis F. Sánchez. The hardware was a joint effort; the firmware and the game are mostly mine. Mario keeps his copy at [medpar/Retro-Gaming-Console](https://github.com/medpar/Retro-Gaming-Console).
+Electronic product design, Master's in Telecommunications Engineering, University of Valladolid, 2025. With Mario Medrano and Luis F. Sánchez.
 
 <p align="center">
   <img src="docs/images/console_pacman.jpg" width="640" alt="The finished console running Pac-Man">
